@@ -1,0 +1,19 @@
+{
+  "slides": [
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/Pareto/bf827353d0085ba16063e97337aaca2ee7138c315579fdb77ff084ad31c3d524.mp4",
+      "rev_file": "slides/files/Pareto/bf827353d0085ba16063e97337aaca2ee7138c315579fdb77ff084ad31c3d524_reversed.mp4"
+    }
+  ],
+  "resolution": [
+    1280,
+    720
+  ],
+  "background_color": "black"
+}

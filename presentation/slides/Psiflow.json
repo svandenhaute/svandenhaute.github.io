@@ -1,0 +1,19 @@
+{
+  "slides": [
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/Psiflow/d6ded53d47b87c4b09f38399faed9fc9c995a0870ad246809bca75c1e4b421ed.mp4",
+      "rev_file": "slides/files/Psiflow/d6ded53d47b87c4b09f38399faed9fc9c995a0870ad246809bca75c1e4b421ed_reversed.mp4"
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "black"
+}

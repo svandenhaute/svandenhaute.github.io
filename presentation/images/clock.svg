@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   fill="#000000"
+   height="800px"
+   width="800px"
+   version="1.1"
+   id="Layer_1"
+   viewBox="0 0 488 488"
+   xml:space="preserve"
+   sodipodi:docname="clock.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs4">
+	
+</defs><sodipodi:namedview
+   id="namedview4"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="0.321875"
+   inkscape:cx="259.41748"
+   inkscape:cy="-122.71845"
+   inkscape:window-width="1890"
+   inkscape:window-height="2090"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" />
+<g
+   id="g3"
+   transform="translate(0,-540.36)"
+   style="fill:#ffffff;fill-opacity:1">
+		<g
+   id="g2"
+   style="fill:#ffffff;fill-opacity:1">
+			<path
+   d="M 351.1,846.96 254,779.06 v -116.7 c 0,-5.5 -4.5,-10 -10,-10 -5.5,0 -10,4.5 -10,10 v 122 c 0,3.3 1.6,6.3 4.3,8.2 l 101.4,70.9 c 1.7,1.2 3.7,1.8 5.7,1.8 v 0 c 3.1,0 6.2,-1.5 8.2,-4.4 3.1,-4.5 2,-10.7 -2.5,-13.9 z"
+   id="path1"
+   style="fill:#ffffff;fill-opacity:1" />
+			<path
+   d="m 416.4,611.96 v 0 C 370.2,565.76 309,540.36 244,540.36 c -65,0 -126.2,25.4 -172.4,71.6 C 25.4,658.16 0,719.36 0,784.36 c 0,65 25.4,126.2 71.6,172.4 46.2,46.2 107.4,71.6 172.4,71.6 65,0 126.2,-25.4 172.4,-71.6 46.2,-46.2 71.6,-107.4 71.6,-172.4 0,-65 -25.4,-126.2 -71.6,-172.4 z M 254,1008.16 v 0 -40.8 c 0,-5.5 -4.5,-10 -10,-10 -5.5,0 -10,4.5 -10,10 v 40.8 C 118.4,1003.06 25.3,909.96 20.2,794.36 H 61 c 5.5,0 10,-4.5 10,-10 0,-5.5 -4.5,-10 -10,-10 H 20.2 c 5.1,-115.6 98.2,-208.7 213.8,-213.8 v 40.8 c 0,5.5 4.5,10 10,10 5.5,0 10,-4.5 10,-10 v -40.8 c 115.6,5.1 208.7,98.2 213.8,213.8 H 427 c -5.5,0 -10,4.5 -10,10 0,5.5 4.5,10 10,10 h 40.8 c -5.1,115.6 -98.2,208.7 -213.8,213.8 z"
+   id="path2"
+   style="fill:#ffffff;fill-opacity:1" />
+		</g>
+	</g>
+</svg>

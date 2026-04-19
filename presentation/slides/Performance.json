@@ -1,0 +1,29 @@
+{
+  "slides": [
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/Performance/a49a3982fc4be6abce8f6d5502119a73a9de999bfe58b8b3c6b9f6f5ea29fa89.mp4",
+      "rev_file": "slides/files/Performance/a49a3982fc4be6abce8f6d5502119a73a9de999bfe58b8b3c6b9f6f5ea29fa89_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/Performance/5441e9560d710e9a25335b5e404146e3cdf11da399700c5913bdab3081ce7e42.mp4",
+      "rev_file": "slides/files/Performance/5441e9560d710e9a25335b5e404146e3cdf11da399700c5913bdab3081ce7e42_reversed.mp4"
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "black"
+}

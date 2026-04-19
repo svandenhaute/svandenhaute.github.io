@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/sandervandenhaute/Documents/phd_presentation/media/videos/scene/1080p60/partial_movie_files/PhaseLearningFigure/3977891868_2268332985_3074040110.mp4'
+file 'file:/Users/sandervandenhaute/Documents/phd_presentation/media/videos/scene/1080p60/partial_movie_files/PhaseLearningFigure/2852726489_1551301908_1329114668.mp4'
+file 'file:/Users/sandervandenhaute/Documents/phd_presentation/media/videos/scene/1080p60/partial_movie_files/PhaseLearningFigure/2852726489_3890345977_291883363.mp4'
+file 'file:/Users/sandervandenhaute/Documents/phd_presentation/media/videos/scene/1080p60/partial_movie_files/PhaseLearningFigure/2852726489_1551301908_129333405.mp4'
+file 'file:/Users/sandervandenhaute/Documents/phd_presentation/media/videos/scene/1080p60/partial_movie_files/PhaseLearningFigure/2852726489_3890345977_1866945696.mp4'
+file 'file:/Users/sandervandenhaute/Documents/phd_presentation/media/videos/scene/1080p60/partial_movie_files/PhaseLearningFigure/2852726489_1551301908_1731243850.mp4'
+file 'file:/Users/sandervandenhaute/Documents/phd_presentation/media/videos/scene/1080p60/partial_movie_files/PhaseLearningFigure/2852726489_3890345977_2663199288.mp4'
+file 'file:/Users/sandervandenhaute/Documents/phd_presentation/media/videos/scene/1080p60/partial_movie_files/PhaseLearningFigure/2852726489_1551301908_1303221058.mp4'
+file 'file:/Users/sandervandenhaute/Documents/phd_presentation/media/videos/scene/1080p60/partial_movie_files/PhaseLearningFigure/2852726489_3890345977_2503900119.mp4'
+file 'file:/Users/sandervandenhaute/Documents/phd_presentation/media/videos/scene/1080p60/partial_movie_files/PhaseLearningFigure/2852726489_1551301908_3210518341.mp4'

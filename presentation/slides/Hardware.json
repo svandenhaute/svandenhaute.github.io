@@ -1,0 +1,89 @@
+{
+  "slides": [
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/Hardware/62f3209749f288bdb7f9b7bc617309f1ea3aeb1d07ce14f799b0b3b02c51bf45.mp4",
+      "rev_file": "slides/files/Hardware/62f3209749f288bdb7f9b7bc617309f1ea3aeb1d07ce14f799b0b3b02c51bf45_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/Hardware/42e314e4122272f7221ff6b8fde73096c9580a3301e2e2b90bf96917075cec49.mp4",
+      "rev_file": "slides/files/Hardware/42e314e4122272f7221ff6b8fde73096c9580a3301e2e2b90bf96917075cec49_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/Hardware/e9008a9dee98cb2be5840e88e42426af329f3be036c2469ff9978e0ed8d136f9.mp4",
+      "rev_file": "slides/files/Hardware/e9008a9dee98cb2be5840e88e42426af329f3be036c2469ff9978e0ed8d136f9_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/Hardware/2c7a5924d47ec2428d51c8277af91534eb32d0af62f209c8cf82fcf905bb491d.mp4",
+      "rev_file": "slides/files/Hardware/2c7a5924d47ec2428d51c8277af91534eb32d0af62f209c8cf82fcf905bb491d_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/Hardware/ca904f48ad11bed298ec0a7346ac38b362ae9ba7d6ec0bb74742427abedf0600.mp4",
+      "rev_file": "slides/files/Hardware/ca904f48ad11bed298ec0a7346ac38b362ae9ba7d6ec0bb74742427abedf0600_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/Hardware/d21edb98f2c39ae675ab432fe6db44d5e99c964e96b09ef244a12afe13443440.mp4",
+      "rev_file": "slides/files/Hardware/d21edb98f2c39ae675ab432fe6db44d5e99c964e96b09ef244a12afe13443440_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/Hardware/00e81eff293692022121b8a54e5e24d9d709079bab521111b2e6a95b9b1f71ce.mp4",
+      "rev_file": "slides/files/Hardware/00e81eff293692022121b8a54e5e24d9d709079bab521111b2e6a95b9b1f71ce_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/Hardware/5ee17e70ccd3486ec4647c206bc23d1b2d39a70adc3081e255bad670fc8b021b.mp4",
+      "rev_file": "slides/files/Hardware/5ee17e70ccd3486ec4647c206bc23d1b2d39a70adc3081e255bad670fc8b021b_reversed.mp4"
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "black"
+}

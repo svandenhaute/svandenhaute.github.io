@@ -1,0 +1,19 @@
+{
+  "slides": [
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LUMI/e5772e76fc109dd323489fd9e0546e74cde6cde7386a46aafb85d15890ed731f.mp4",
+      "rev_file": "slides/files/LUMI/e5772e76fc109dd323489fd9e0546e74cde6cde7386a46aafb85d15890ed731f_reversed.mp4"
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "black"
+}

@@ -1,0 +1,19 @@
+{
+  "slides": [
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/ThreeFinal/5d679a0ebca955215af38c2acfd377dd76920c43a9ba51913f7da562cf98fa7a.mp4",
+      "rev_file": "slides/files/ThreeFinal/5d679a0ebca955215af38c2acfd377dd76920c43a9ba51913f7da562cf98fa7a_reversed.mp4"
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "black"
+}

@@ -1,0 +1,29 @@
+{
+  "slides": [
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LearnedLikelihood/a98e2841b9d844f93ec1c2aa2e72d79ff22a87ae8f46b6499367dd713637f242.mp4",
+      "rev_file": "slides/files/LearnedLikelihood/a98e2841b9d844f93ec1c2aa2e72d79ff22a87ae8f46b6499367dd713637f242_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/LearnedLikelihood/c3e3fd5a0afda7eba480e9b44a8258fb529346dea5fec043f993d0f8a990b216.mp4",
+      "rev_file": "slides/files/LearnedLikelihood/c3e3fd5a0afda7eba480e9b44a8258fb529346dea5fec043f993d0f8a990b216_reversed.mp4"
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "black"
+}

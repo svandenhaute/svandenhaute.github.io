@@ -1,0 +1,29 @@
+{
+  "slides": [
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/MIL53/3fce1d344b9b944348ea51e9b88249680a5863676fa2d88348e2d0d74bf9534a.mp4",
+      "rev_file": "slides/files/MIL53/3fce1d344b9b944348ea51e9b88249680a5863676fa2d88348e2d0d74bf9534a_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/MIL53/67cb227357822afd250d96c271d868172ff7c43eeed6737e15e2e77581d85052.mp4",
+      "rev_file": "slides/files/MIL53/67cb227357822afd250d96c271d868172ff7c43eeed6737e15e2e77581d85052_reversed.mp4"
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "black"
+}

@@ -1,0 +1,29 @@
+{
+  "slides": [
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/ManualLikelihood/d3c7bbcf559402ac9a24b2ff6a06e6d9b77e6fd58a1d804e5f4ae7e9e62c1c34.mp4",
+      "rev_file": "slides/files/ManualLikelihood/d3c7bbcf559402ac9a24b2ff6a06e6d9b77e6fd58a1d804e5f4ae7e9e62c1c34_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/ManualLikelihood/8e6f171fb2ab0192772a812f95857c1069e83cc9570ed9e93fcc3bfbc9659e98.mp4",
+      "rev_file": "slides/files/ManualLikelihood/8e6f171fb2ab0192772a812f95857c1069e83cc9570ed9e93fcc3bfbc9659e98_reversed.mp4"
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "black"
+}

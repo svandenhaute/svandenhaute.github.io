@@ -1,0 +1,59 @@
+{
+  "slides": [
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/Learning/ddc86ba2126b76ba56ee59b07f9b735049ecfac8245f210d905bed5c17e25be6.mp4",
+      "rev_file": "slides/files/Learning/ddc86ba2126b76ba56ee59b07f9b735049ecfac8245f210d905bed5c17e25be6_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/Learning/e680c46605a2dbc6b071e0cb8bf558e38d5f1e25039b56c4cbb0e69385e8b7ce.mp4",
+      "rev_file": "slides/files/Learning/e680c46605a2dbc6b071e0cb8bf558e38d5f1e25039b56c4cbb0e69385e8b7ce_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/Learning/a7b08d66db6e622ba84dfb6de69506aa527f078d95a1aea98210ce045f50a5ba.mp4",
+      "rev_file": "slides/files/Learning/a7b08d66db6e622ba84dfb6de69506aa527f078d95a1aea98210ce045f50a5ba_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/Learning/c6ac503c372d5f09459a000e1dc6c9a4bab5cdfbfa46714ca3ce084cc4424f5e.mp4",
+      "rev_file": "slides/files/Learning/c6ac503c372d5f09459a000e1dc6c9a4bab5cdfbfa46714ca3ce084cc4424f5e_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/Learning/571f6f0ffcb16b3aeda517f70ad08a9a529791e2983a9e207775654142f17e37.mp4",
+      "rev_file": "slides/files/Learning/571f6f0ffcb16b3aeda517f70ad08a9a529791e2983a9e207775654142f17e37_reversed.mp4"
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "black"
+}

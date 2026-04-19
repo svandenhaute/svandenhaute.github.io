@@ -1,0 +1,49 @@
+{
+  "slides": [
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/IsobuteneBasins/48b6d1531f84f3699cfff9c3f36a356060ce2e2d0fe45c4b6223d658522b7d7b.mp4",
+      "rev_file": "slides/files/IsobuteneBasins/48b6d1531f84f3699cfff9c3f36a356060ce2e2d0fe45c4b6223d658522b7d7b_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/IsobuteneBasins/ab6a02357f63f9cb93c8d63f1dacb1dad7525e8e143638772c700258d7128a33.mp4",
+      "rev_file": "slides/files/IsobuteneBasins/ab6a02357f63f9cb93c8d63f1dacb1dad7525e8e143638772c700258d7128a33_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/IsobuteneBasins/dc4903c1e8dba90c10a53a9ab417f70ab2dfb8155035ac2d86c3b13e63e90151.mp4",
+      "rev_file": "slides/files/IsobuteneBasins/dc4903c1e8dba90c10a53a9ab417f70ab2dfb8155035ac2d86c3b13e63e90151_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/IsobuteneBasins/d8788d4cf31f701d3ba96ecf222f566b84e65a2f0fb07b553dbb7b78b2d582d1.mp4",
+      "rev_file": "slides/files/IsobuteneBasins/d8788d4cf31f701d3ba96ecf222f566b84e65a2f0fb07b553dbb7b78b2d582d1_reversed.mp4"
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "black"
+}

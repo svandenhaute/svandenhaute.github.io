@@ -1,0 +1,49 @@
+{
+  "slides": [
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/DeltaLearningFigure/dd6f8523a462d68f9fa282e16e93f68d6b4e0be47ceb99dd42d3b0b76332b0b2.mp4",
+      "rev_file": "slides/files/DeltaLearningFigure/dd6f8523a462d68f9fa282e16e93f68d6b4e0be47ceb99dd42d3b0b76332b0b2_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/DeltaLearningFigure/61fd440c416f4538741981916810686ce80f0211e9255dde7f051b4b84ea9094.mp4",
+      "rev_file": "slides/files/DeltaLearningFigure/61fd440c416f4538741981916810686ce80f0211e9255dde7f051b4b84ea9094_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/DeltaLearningFigure/d3b32716b6be6e005668360ed0820b54019d4cbf9ada266660abcd5bddb89180.mp4",
+      "rev_file": "slides/files/DeltaLearningFigure/d3b32716b6be6e005668360ed0820b54019d4cbf9ada266660abcd5bddb89180_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/DeltaLearningFigure/a57fd0ff22d80174df93ffeabfc1e91195d638ea0b047fee01a1bdbeb03a838b.mp4",
+      "rev_file": "slides/files/DeltaLearningFigure/a57fd0ff22d80174df93ffeabfc1e91195d638ea0b047fee01a1bdbeb03a838b_reversed.mp4"
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "black"
+}

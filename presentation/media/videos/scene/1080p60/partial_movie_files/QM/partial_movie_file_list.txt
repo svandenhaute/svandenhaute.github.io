@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/sandervandenhaute/Documents/phd_presentation/media/videos/scene/1080p60/partial_movie_files/QM/3977891868_1881351816_1591653729.mp4'
+file 'file:/Users/sandervandenhaute/Documents/phd_presentation/media/videos/scene/1080p60/partial_movie_files/QM/2852726489_4229120757_751703516.mp4'
+file 'file:/Users/sandervandenhaute/Documents/phd_presentation/media/videos/scene/1080p60/partial_movie_files/QM/2852726489_1551301908_3957700033.mp4'
+file 'file:/Users/sandervandenhaute/Documents/phd_presentation/media/videos/scene/1080p60/partial_movie_files/QM/2852726489_1870821078_4081091677.mp4'
+file 'file:/Users/sandervandenhaute/Documents/phd_presentation/media/videos/scene/1080p60/partial_movie_files/QM/2852726489_1551301908_2763044561.mp4'

@@ -1,0 +1,79 @@
+{
+  "slides": [
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/HydrogenRevisited/c1b1f06801ac78778fcec3a7f0a1c40996fb7a0ce2e605ce51fb1b95dfee9776.mp4",
+      "rev_file": "slides/files/HydrogenRevisited/c1b1f06801ac78778fcec3a7f0a1c40996fb7a0ce2e605ce51fb1b95dfee9776_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/HydrogenRevisited/e1c3827b1b77a416a3579a0d1312e31671815c5f3f66689f1cd797b918a2d3a7.mp4",
+      "rev_file": "slides/files/HydrogenRevisited/e1c3827b1b77a416a3579a0d1312e31671815c5f3f66689f1cd797b918a2d3a7_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/HydrogenRevisited/1e9d1401a66794c7a2f8bd879cf77e6795b072540d74cc52aaceea329a61436d.mp4",
+      "rev_file": "slides/files/HydrogenRevisited/1e9d1401a66794c7a2f8bd879cf77e6795b072540d74cc52aaceea329a61436d_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/HydrogenRevisited/31caceeb0bbb40ca2b12ca3e99f0914e04376ad6455d54cfcf82352a36cff089.mp4",
+      "rev_file": "slides/files/HydrogenRevisited/31caceeb0bbb40ca2b12ca3e99f0914e04376ad6455d54cfcf82352a36cff089_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/HydrogenRevisited/ad1220e560327bcf433486601c84fca5f6705101ebd7a466d54a8af900f5a02d.mp4",
+      "rev_file": "slides/files/HydrogenRevisited/ad1220e560327bcf433486601c84fca5f6705101ebd7a466d54a8af900f5a02d_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/HydrogenRevisited/68b4408e47a1a7a64b9d185bf89e8e8e31855f9aa5b6778c624dc19e40575a50.mp4",
+      "rev_file": "slides/files/HydrogenRevisited/68b4408e47a1a7a64b9d185bf89e8e8e31855f9aa5b6778c624dc19e40575a50_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/HydrogenRevisited/59c4d307c375227662a86ba1588a51b0d3dc1e23d711e57ada40141c859af942.mp4",
+      "rev_file": "slides/files/HydrogenRevisited/59c4d307c375227662a86ba1588a51b0d3dc1e23d711e57ada40141c859af942_reversed.mp4"
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "black"
+}

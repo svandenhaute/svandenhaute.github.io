@@ -1,0 +1,29 @@
+{
+  "slides": [
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/IsobuteneProfile/6edb77e52064cbaa345a1b220e943c235dc8bbbad0fe3a6627ed6f17fe86618f.mp4",
+      "rev_file": "slides/files/IsobuteneProfile/6edb77e52064cbaa345a1b220e943c235dc8bbbad0fe3a6627ed6f17fe86618f_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/IsobuteneProfile/1beb0842c9afd3e4dea95e37e88ed5c55ec8882803f0289d12a84cd0a484d6fc.mp4",
+      "rev_file": "slides/files/IsobuteneProfile/1beb0842c9afd3e4dea95e37e88ed5c55ec8882803f0289d12a84cd0a484d6fc_reversed.mp4"
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "black"
+}

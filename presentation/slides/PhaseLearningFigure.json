@@ -1,0 +1,59 @@
+{
+  "slides": [
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/PhaseLearningFigure/32579ae99702b10f8732937922a7245da7b9b14b2eb9e7dfc858c4417b5fd9e7.mp4",
+      "rev_file": "slides/files/PhaseLearningFigure/32579ae99702b10f8732937922a7245da7b9b14b2eb9e7dfc858c4417b5fd9e7_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/PhaseLearningFigure/bf30592aeef1428c3fb5cf29cd0709a832bac103481b94bd80fa35548f384230.mp4",
+      "rev_file": "slides/files/PhaseLearningFigure/bf30592aeef1428c3fb5cf29cd0709a832bac103481b94bd80fa35548f384230_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/PhaseLearningFigure/039f3b37cb07dfeb3380894b7cafdc2ba9f9f48bf60a1f3afbbc4bbb0fb61c37.mp4",
+      "rev_file": "slides/files/PhaseLearningFigure/039f3b37cb07dfeb3380894b7cafdc2ba9f9f48bf60a1f3afbbc4bbb0fb61c37_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/PhaseLearningFigure/2a05c030921e24df19d86fc6f9c0b2a07ca3129148b08e103bac964fa2d97b7f.mp4",
+      "rev_file": "slides/files/PhaseLearningFigure/2a05c030921e24df19d86fc6f9c0b2a07ca3129148b08e103bac964fa2d97b7f_reversed.mp4"
+    },
+    {
+      "loop": false,
+      "auto_next": false,
+      "playback_rate": 1.0,
+      "reversed_playback_rate": 1.0,
+      "notes": "",
+      "dedent_notes": true,
+      "file": "slides/files/PhaseLearningFigure/6c3d94445bc498213d88a51764721478a8975252642205779179037d55681510.mp4",
+      "rev_file": "slides/files/PhaseLearningFigure/6c3d94445bc498213d88a51764721478a8975252642205779179037d55681510_reversed.mp4"
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "black"
+}
